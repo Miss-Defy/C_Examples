@@ -37,4 +37,10 @@ Primes_Between_Integers.cc - Finds prime numbers between two integers.
 
 Swap_Numbers.cc - Swap the assignment of two integer variables. 
 
+Linear_Search_Test_Score.cc - Determines whether a student got a 100 on any of the tests in a list and tells you which test it was. A linear search is used.
+
+Binary_Search_Test_Score.cc - Determines whether a student got a 100 on any of the tests in a list and tells you which test it was. A binary search is used.
+
+
+
 
