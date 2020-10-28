@@ -9,10 +9,6 @@ Example scripts written in C++ are in the C_Examples repository.
 
 Is_Same.cc - Checks whether two types are the same.
 
-
-
-The following programs prompt for values chosen by the user and show the resulting solution.
-
 ASCII_Value.cc - Finds the ASCII value of any character.
 
 Add_Values.cc - Adds two numbers. 
